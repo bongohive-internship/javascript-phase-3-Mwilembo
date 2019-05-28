@@ -20,18 +20,15 @@
 
 - [ ] Write a JavaScript program that accept two integers and display the larger. 
 
-- [ ] Write a function that when given name it shows "Hello name", name should be any name that is passed to the function in a file called *greet.js*.
+- [ ] Write a JavaScript for loop that will iterate from 0 to 15. For each iteration, it will check if the current number is odd or even, and display a message to the console. Go to the editor.  
+       Sample Output :   
+         "0 is even"   
+         "1 is odd"   
+         "2 is even"  
 
- e.g: `greet("Mark Second")` should print "Hello Mark Second"  
-- [ ] Write a function named tellFortune that:  *tell-fortune.js*
-    - takes 4 arguments: number of children, partner's name, geographic location, job title.
-    - outputs your fortune to the screen like so: "You will be a X in Y, and married to Z with N kids."
-    - Call that function 3 times with 3 different values for the arguments
     
-- [ ] Create a function called calcCircumfrence: *calc-circumfrence.js*
-    - Pass the radius to the function.
-    - Calculate the circumference based on the radius, and output "The circumference is NN".
-    - Calculate the area of the circle based on the given details above
+- [ ] Write a JavaScript program to sum the multiples of 3 and 5 under 1000
+- [ ] Check the results of your assignGrade function from the conditionals exercise by logging every value from 60 to 100: your log should show "For 88, you got a B. For 89, you got a B. For 90, you got an A. For 91, you got an A.", etc., logging each grade point in the range.
 
 **Note**: Use the provided files to show your solutions, using the knowledge you learned in the Github course, you can close and commit and push back to your fork in BongoHive organization.
 
