@@ -10,6 +10,8 @@
 - understanding all looping methods in javascript https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
 
 ### What you are supposed to understand
+Make sure you have completed phase 1 and phase 2
+
 - [ ] Variables and data types 
 - [ ] Functions
 - [ ] Arrays and array methods
