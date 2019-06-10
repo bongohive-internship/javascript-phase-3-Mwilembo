@@ -30,7 +30,11 @@ Make sure you have completed phase 1 and phase 2
 
     
 - [ ] Write a JavaScript program to sum the multiples of 3 and 5 under 1000
-- [ ] Check the results of your assignGrade function from the conditionals exercise by logging every value from 60 to 100: your log should show "For 88, you got a B. For 89, you got a B. For 90, you got an A. For 91, you got an A.", etc., logging each grade point in the range.
+- [ ] Write a function named assignGrade that:
+       - takes 1 argument, a number score.
+       - returns a grade for the score, either "A", "B", "C", "D", or "F".
+       - Call that function for a few different scores and log the result to make sure it works.
+- [ ] Check the results of your **assignGrade** ☝🏾 function from the above exercise by logging every value from 60 to 100: your log should show "For 88, you got a B. For 89, you got a B. For 90, you got an A. For 91, you got an A.", etc., logging each grade point in the range.
 
 **Note**: Use the provided files to show your solutions, using the knowledge you learned in the Github course, you can close and commit and push back to your fork in BongoHive organization.
 
